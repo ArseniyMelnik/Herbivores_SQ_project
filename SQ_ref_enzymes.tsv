@@ -1,0 +1,29 @@
+Protein ID	Organism name	Locus	Gene	Function	PFAM ID	Reference
+AAK90113.2	Agrobacterium fabrum str. C58	sulfo- ASMO	ssuE	flavin reductase	PF01613	https://doi.org/10.1073/pnas.2116022119
+AAK90112.1	Agrobacterium fabrum str. C58	sulfo- ASMO	squF	glucose-6-dehydrogenase	PF00248	https://doi.org/10.1073/pnas.2116022119
+AAK90111.1	Agrobacterium fabrum str. C58	sulfo- ASMO	squD	SQ monooxygenase	PF00296	https://doi.org/10.1073/pnas.2116022119
+ANG62941.1	Marinobacterium aestuarii str.ST58-10	sulfo- ASDO	sqoD	SQ dioxygenase	PF02668	https://pmc.ncbi.nlm.nih.gov/articles/pmid/37731605/ 
+WP_017967307.1	Rhizobium leguminosarum bv. trifoliiSRDI565	sulfo-ED	sedC	SG dehydratase	PF00920	https://pmc.ncbi.nlm.nih.gov/articles/pmid/32444469/ 
+WP_017967308.1	Rhizobium leguminosarum bv. trifolii SRDI565	sulfo-ED	sedD	KDSG aldolase	PF01081	https://pmc.ncbi.nlm.nih.gov/articles/pmid/32444469/ 
+WP_017967309.1	Rhizobium leguminosarum bv. trifolii SRDI565	sulfo-ED	sedB	SGL lactonase	PF08450	https://pmc.ncbi.nlm.nih.gov/articles/pmid/32444469/ 
+WP_017967310.1	Rhizobium leguminosarum bv. trifolii SRDI565	sulfo-ED	sedA	SQ dehydrogenase	PF13561	https://pmc.ncbi.nlm.nih.gov/articles/pmid/32444469/ 
+PRO65849.1	Alkalicoccus urumqiensis BZ-SZ-XJ18	sulfo-EMP	sqvB	SQ mutarotase	PF16161	https://zhaogroup.chbe.illinois.edu/publications/HZ372.pdf
+PRO65851.1	Alkalicoccus urumqiensis BZ-SZ-XJ18	sulfo-EMP	sqvD	SQ isomerase	PF02952	https://zhaogroup.chbe.illinois.edu/publications/HZ372.pdf
+PRO65852.1	Alkalicoccus urumqiensis BZ-SZ-XJ18	sulfo-EMP	sqiK	SF kinase	PF00365	https://zhaogroup.chbe.illinois.edu/publications/HZ372.pdf
+PRO65853.1	Alkalicoccus urumqiensis BZ-SZ-XJ18	sulfo-EMP	sqiA	SFP class II aldolase	PF01116	https://zhaogroup.chbe.illinois.edu/publications/HZ372.pdf
+PRO65854.1	Alkalicoccus urumqiensis BZ-SZ-XJ18	sulfo-EMP	slaB	SLA dehydrogenase	PF02826	https://zhaogroup.chbe.illinois.edu/publications/HZ372.pdf
+MCD5344479.1	Arthrobacter sp. AK04	sulfo-EMP	sqgA	SQase	PF01408	https://pmc.ncbi.nlm.nih.gov/articles/PMC10755693/ 
+AYG21326.1	Escherichia coli str. K-12 substr. MG1655	sulfo-EMP	yihQ	SQase	PF13802, PF01055, PF21365	https://www.nature.com/articles/nature12947 
+AYG21325.1	Escherichia colistr. K-12 substr. MG1655	sulfo-EMP	yihR	SQ mutarotase	PF01263	https://www.nature.com/articles/nature12947 
+AYG21324.1	Escherichia coli str. K-12 substr. MG1655	sulfo-EMP	yihS	SQ isomerase	PF07221	https://www.nature.com/articles/nature12947 
+AYG21321.1	Escherichia coli str. K-12 substr. MG1655	sulfo-EMP	yihV	SF kinase	PF00294	https://www.nature.com/articles/nature12947 
+AYG21323.1	Escherichia coli str. K-12 substr. MG1655	sulfo-EMP	yihT	SFP class I aldolase	PF01791	https://www.nature.com/articles/nature12947 
+AYG21322.1	Escherichia coli str. K-12 substr. MG1655	sulfo-EMP	yihU	SLA reductase	PF03446	https://www.nature.com/articles/nature12947 
+ADE70661.1	Bacillus megaterium DSM 1804	sulfo-TAL	sqvA	SF transaldolase	PF00923	https://doi.org/10.1016/j.bbrc.2020.09.124
+EJF39103.1	Clostridium sp. MSTE9	sulfo-TK	sqwF	SA reductase	PF00465	https://zhaogroup.chbe.illinois.edu/publications/HZ372.pdf
+EJF39099.1	Clostridium sp. MSTE9	sulfo-TK	sqwG	SF transketolase	PF00456	https://zhaogroup.chbe.illinois.edu/publications/HZ372.pdf
+EJF39090.1	Clostridium sp. MSTE9	sulfo-TK	sqwH	SF transketolase	PF02779, PF02780	https://zhaogroup.chbe.illinois.edu/publications/HZ372.pdf
+EJF39089.1	Clostridium sp. MSTE9	sulfo-TK	sqwI	SE isomerase	PF02502	https://zhaogroup.chbe.illinois.edu/publications/HZ372.pdf
+A0A3A6N9T6.1	Acholeplasma sp.	sulfo-TK	sqwD	SA dehydrogenase	PF00171	https://pmc.ncbi.nlm.nih.gov/articles/pmid/37404184/ 
+A0A3A6NE59.1	Acholeplasma sp.	sulfo-TK	sqwK	ADP-forming sulfoacetate- CoA ligase subunit SqwK	PF00549	https://pmc.ncbi.nlm.nih.gov/articles/pmid/37404184/ 
+A0A3A6N9V6.1	Acholeplasma sp.	sulfo-TK	sqwL	ADP-forming sulfoacetate-CoA ligase subunit SqwL	PF00549	https://pmc.ncbi.nlm.nih.gov/articles/pmid/37404184/ 
