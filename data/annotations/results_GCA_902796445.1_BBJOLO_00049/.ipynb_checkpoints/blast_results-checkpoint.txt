@@ -1,0 +1,45 @@
+ID: BBJOLO_00042
+DESC: gb|MDD6564398.1| PTS fructose transporter subunit IIC [Clostridiales bacterium]
+------------------------------
+ID: BBJOLO_00043
+DESC: gb|MGN1092083.1| ketose-bisphosphate aldolase [Monoglobaceae bacterium]
+------------------------------
+ID: BBJOLO_00044
+DESC: gb|MGN1092082.1| ketose-bisphosphate aldolase [Monoglobaceae bacterium]
+------------------------------
+ID: BBJOLO_00045
+DESC: gb|MDD6563874.1| amidohydrolase family protein [Clostridiales bacterium]
+------------------------------
+ID: BBJOLO_00046
+DESC: gb|MDY3031449.1| DUF4867 family protein [Clostridia bacterium]
+------------------------------
+ID: BBJOLO_00047
+DESC: gb|MEE1351221.1| glucose 1-dehydrogenase [Clostridia bacterium]
+------------------------------
+ID: BBJOLO_00048
+DESC: gb|MEE1351220.1| class II fructose-bisphosphate aldolase [Clostridia bacterium]
+------------------------------
+ID: BBJOLO_00049
+DESC: tpg|HIR1300683.1| L-fucose/L-arabinose isomerase family protein [Monoglobaceae bacterium]
+------------------------------
+ID: BBJOLO_00050
+DESC: gb|MDD6483235.1| carbohydrate kinase family protein [Clostridiales bacterium]
+------------------------------
+ID: BBJOLO_00051
+DESC: gb|MDD6564258.1| aldehyde dehydrogenase family protein [Clostridiales bacterium]
+------------------------------
+ID: BBJOLO_00052
+DESC: gb|MDD6564257.1| enolase C-terminal domain-like protein [Clostridiales bacterium]
+------------------------------
+ID: BBJOLO_00053
+DESC: gb|MBP3580310.1| DUF4147 domain-containing protein [Clostridia bacterium]
+------------------------------
+ID: BBJOLO_00054
+DESC: gb|MDY3031442.1| aldo/keto reductase [Clostridia bacterium]
+------------------------------
+ID: BBJOLO_00055
+DESC: gb|MDY3031441.1| bifunctional 4-hydroxy-2-oxoglutarate aldolase/2-dehydro-3-deoxy-phosphogluconate aldolase [Clostridia bacterium]
+------------------------------
+ID: BBJOLO_00056
+DESC: gb|MDD6564332.1| Ldh family oxidoreductase [Clostridiales bacterium]
+------------------------------

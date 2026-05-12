@@ -1,0 +1,45 @@
+ID: FFNCOF_00668
+DESC: gb|MBR0542801.1| MBL fold metallo-hydrolase [Clostridia bacterium]
+------------------------------
+ID: FFNCOF_00669
+DESC: tpg|HAQ64154.1| hypothetical protein [Oscillospiraceae bacterium]
+------------------------------
+ID: FFNCOF_00670
+DESC: tpg|HAQ64155.1| hypothetical protein [Oscillospiraceae bacterium]
+------------------------------
+ID: FFNCOF_00671
+DESC: gb|MBR0542798.1| hypothetical protein [Clostridia bacterium]
+------------------------------
+ID: FFNCOF_00672
+DESC: gb|MBR0542797.1| alpha-glucosidase [Clostridia bacterium]
+------------------------------
+ID: FFNCOF_00673
+DESC: gb|MDO4846513.1| glycoside-pentoside-hexuronide (GPH):cation symporter [Clostridiaceae bacterium]
+------------------------------
+ID: FFNCOF_00674
+DESC: gb|MBR0542795.1| transaldolase [Clostridia bacterium]
+------------------------------
+ID: FFNCOF_00675
+DESC: gb|MBR0542794.1| NAD(P)-dependent oxidoreductase [Clostridia bacterium]
+------------------------------
+ID: FFNCOF_00676
+DESC: gb|MBR0542793.1| DUF4867 family protein [Clostridia bacterium]
+------------------------------
+ID: FFNCOF_00677
+DESC: tpg|HAQ63405.1| fucose isomerase [Oscillospiraceae bacterium]
+------------------------------
+ID: FFNCOF_00678
+DESC: gb|MBR0542791.1| sulfite exporter TauE/SafE family protein [Clostridia bacterium]
+------------------------------
+ID: FFNCOF_00679
+DESC: tpg|HAQ63407.1| rubrerythrin family protein [Oscillospiraceae bacterium]
+------------------------------
+ID: FFNCOF_00680
+DESC: No hits found
+------------------------------
+ID: FFNCOF_00681
+DESC: gb|MBR0542786.1| 3-deoxy-7-phosphoheptulonate synthase [Clostridia bacterium]
+------------------------------
+ID: FFNCOF_00682
+DESC: gb|MBR0542785.1| prephenate dehydrogenase [Clostridia bacterium]
+------------------------------
